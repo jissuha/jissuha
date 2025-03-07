@@ -4,13 +4,16 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 About Me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
-        Hi there!👋 I’m Jisu Ha, a business analyst passionate about turning data into meaningful insights that drive business impact.  
+        Hi there!👋 
+        </div>I’m Jisu Ha, a business analyst passionate about turning data into meaningful insights that drive business impact.  
         <br><br>
         With a background in marketing and product strategy, I specialize in analyzing complex datasets, identifying trends, and transforming numbers into actionable insights. I’ve seen firsthand how data-driven decisions can shape better strategies and fuel business growth.
         <br><br>
-        I work with SQL and Python for data analysis and leverage Tableau, Power BI, and Looker to create compelling visualizations. But for me, data isn’t just about numbers—it’s about telling a story that drives action.
+        I work with SQL and Python for data analysis and leverage Tableau, Power BI, and Looker to create compelling visualizations. 
+        </div>But for me, data isn’t just about numbers—it’s about telling a story that drives action.
         <br><br>
-        I'm always open to new opportunities and collaborations. Let’s connect—feel free to reach out via email or LinkedIn!
+        I'm always open to new opportunities and collaborations. 
+        </div>Let’s connect—feel free to reach out via email or LinkedIn!
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
